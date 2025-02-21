@@ -128,7 +128,7 @@ sections:
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
-    title: "Want to collaborate on a project? Tell me more...\U0001F4AC"
+    title: "Want to collaborate? Tell me more...\U0001F4AC"
     form:
       type: FormBlock
       elementId: sign-up-form
