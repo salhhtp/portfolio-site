@@ -21,7 +21,21 @@ sections:
       Consultant program at Hyper Island**, I thrive on staying at the forefront
       of innovation through continuous learning and hands-on experimentation.
 
-      -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+      **From Electrical Engineering to AI & Full Stack**
+
+      My academic journey began at **Yıldız Technical University**, where I
+      studied Electrical Engineering. During this time, I developed an
+      analytical mindset and a fascination for how systems work—both in hardware
+      and software.
+
+      After several years of diverse experience—from **Mechatronics Technician**
+      to **Managing** a cafe—I transitioned into the world of AI and software
+      development. I’ve since gained **multiple certifications** in Data
+      Analysis, Machine Learning, and Full-Stack development (including an IBM
+      Full Stack Software Developer Specialization).
+
+      ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
     media:
       type: ImageBlock
