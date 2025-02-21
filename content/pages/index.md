@@ -15,9 +15,8 @@ sections:
     backgroundSize: full
     title: 'Hi, I’m Salih —AI Developer & Full-Stack Enthusiast.'
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      I build data-driven solutions and scalable web applications, combining my
+      passion for machine learning with strong full-stack fundamentals.
     styles:
       self:
         height: auto
