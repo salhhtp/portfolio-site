@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      Hi, I’m Salih                                         AI Developer &
+      Hi, I’m Salih                                         -AI Developer &
       Full-Stack Enthusiast.
     subtitle: >-
       I build data-driven solutions and scalable web applications, combining my
