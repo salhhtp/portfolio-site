@@ -70,7 +70,7 @@ sections:
         altText: Logo one
         caption: Logo one
       - type: ImageBlock
-        url: /images/logo2.svg
+        url: /images/0eca8522-716d-4b3b-8651-f87a1165a1cb_removalai_preview.png
         altText: Logo two
         caption: Logo two
       - type: ImageBlock
