@@ -50,6 +50,7 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
+    title: Who I am?
   - type: DividerSection
     styles:
       self:
