@@ -21,6 +21,8 @@ sections:
       Consultant program at Hyper Island**, I thrive on staying at the forefront
       of innovation through continuous learning and hands-on experimentation.
 
+      -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
       **From Electrical Engineering to AI & Full Stack**
 
