@@ -74,7 +74,7 @@ sections:
         altText: Logo two
         caption: Logo two
       - type: ImageBlock
-        url: /images/0eca8522-716d-4b3b-8651-f87a1165a1cb_removalai_preview.png
+        url: /images/d563f46e-8e14-40a3-acd4-ff605e451af7_removalai_preview.png
         altText: Logo three
         caption: Logo three
       - type: ImageBlock
