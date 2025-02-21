@@ -13,11 +13,16 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >+
+      **Who I Am?**
+
+      I’m an AI Developer and AI Business Consultant-in-training with a strong
+      foundation in Electrical Engineering. Currently pursuing my **AI Business
+      Consultant program at Hyper Island**, I thrive on staying at the forefront
+      of innovation through continuous learning and hands-on experimentation.
+
+      -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
     media:
       type: ImageBlock
       url: /images/about.jpg
