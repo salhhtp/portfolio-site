@@ -49,40 +49,6 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     title: Who I am?
-  - type: TextSection
-    colors: colors-f
-    variant: variant-a
-    title: My Background
-    text: >
-      From Electrical Engineering to AI & Full Stack
-
-      My academic journey began at Yıldız Technical University, where I studied
-      Electrical Engineering. During this time, I developed an analytical
-      mindset and a fascination for how systems work—both in hardware and
-      software.
-
-      After several years of diverse experience—from Mechatronics Technician to
-      Managing a cafe—I transitioned into the world of AI and software
-      development. I’ve since gained multiple certifications in Data Analysis,
-      Machine Learning, and Full-Stack development (including an IBM Full Stack
-      Software Developer Specialization).
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
   - type: DividerSection
     styles:
       self:
