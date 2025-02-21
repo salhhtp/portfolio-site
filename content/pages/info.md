@@ -76,7 +76,7 @@ sections:
       - type: ImageBlock
         url: /images/d563f46e-8e14-40a3-acd4-ff605e451af7_removalai_preview.png
         altText: Logo three
-        caption: Logo three
+        caption: Hyper Island
     spacing: 160
     columns: 3
     aspectRatio: auto
