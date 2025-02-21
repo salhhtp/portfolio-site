@@ -43,6 +43,11 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     title: Who I am?
+    subtitle: >-
+      I’m an AI Developer and AI Business Consultant-in-training with a strong
+      foundation in Electrical Engineering. Currently pursuing my AI Business
+      Consultant program at Hyper Island, I thrive on staying at the forefront
+      of innovation through continuous learning and hands-on experimentation.
   - type: HeroSection
     title: My Background
     subtitle: >-
