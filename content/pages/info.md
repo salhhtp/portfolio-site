@@ -55,13 +55,19 @@ sections:
     colors: colors-f
     variant: variant-a
     title: My Background
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >
+      **From Electrical Engineering to AI & Full Stack**
+
+      My academic journey began at **Yıldız Technical University**, where I
+      studied Electrical Engineering. During this time, I developed an
+      analytical mindset and a fascination for how systems work—both in hardware
+      and software.
+
+      After several years of diverse experience—from **Mechatronics Technician**
+      to **Managing** a cafe—I transitioned into the world of AI and software
+      development. I’ve since gained **multiple certifications** in Data
+      Analysis, Machine Learning, and Full-Stack development (including an IBM
+      Full Stack Software Developer Specialization).
     elementId: ''
     styles:
       self:
