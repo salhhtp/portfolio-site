@@ -68,7 +68,7 @@ sections:
       - type: ImageBlock
         url: /images/47e63ba0-27a4-4be3-813c-aac7e438642c_removalai_preview.png
         altText: Logo one
-        caption: Logo one
+        caption: Carbon Centrum
       - type: ImageBlock
         url: /images/0eca8522-716d-4b3b-8651-f87a1165a1cb_removalai_preview.png
         altText: Logo two
