@@ -17,7 +17,7 @@ sections:
     subtitle: >-
       I build data-driven solutions and scalable web applications, combining my
       passion for machine learning with strong full-stack fundamentals to help
-      bridging the gap between business needs
+      bridging the gap between business needs and cutting-edge technology!
     styles:
       self:
         height: auto
