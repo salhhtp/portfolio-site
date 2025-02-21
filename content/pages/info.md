@@ -13,12 +13,10 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >+
-      ## I’m an AI Developer and AI Business Consultant-in-training with a
-      strong foundation in Electrical Engineering. Currently pursuing my AI
-      Business Consultant program at Hyper Island, I thrive on staying at the
-      forefront of innovation through continuous learning and hands-on
-      experimentation.
+    text: |+
+
+
+      ##
 
     media:
       type: ImageBlock
