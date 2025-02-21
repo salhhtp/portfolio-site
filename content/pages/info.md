@@ -55,8 +55,8 @@ sections:
     colors: colors-f
     variant: variant-a
     title: My Background
-    text: >+
-      **From Electrical Engineering to AI & Full Stack
+    text: >
+      From Electrical Engineering to AI & Full Stack
 
       My academic journey began at Yıldız Technical University, where I studied
       Electrical Engineering. During this time, I developed an analytical
@@ -67,10 +67,7 @@ sections:
       Managing a cafe—I transitioned into the world of AI and software
       development. I’ve since gained multiple certifications in Data Analysis,
       Machine Learning, and Full-Stack development (including an IBM Full Stack
-      Software Developer Specialization).**
-
-      -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+      Software Developer Specialization).
     elementId: ''
     styles:
       self:
