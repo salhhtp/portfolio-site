@@ -77,7 +77,7 @@ sections:
         url: /images/d563f46e-8e14-40a3-acd4-ff605e451af7_removalai_preview.png
         altText: Logo three
         caption: Logo three
-    spacing: 0
+    spacing: 110
     columns: 3
     aspectRatio: auto
     showCaption: true
