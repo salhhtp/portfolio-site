@@ -16,7 +16,8 @@ sections:
     title: 'Hi, I’m Salih —AI Developer & Full-Stack Enthusiast.'
     subtitle: >-
       I build data-driven solutions and scalable web applications, combining my
-      passion for machine learning with strong full-stack fundamentals to 
+      passion for machine learning with strong full-stack fundamentals to help
+      close 
     styles:
       self:
         height: auto
