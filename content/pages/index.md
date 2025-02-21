@@ -44,9 +44,10 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-    text: >+
-      ### ***Bridging the gap between business needs and cutting-edge
-      technology!***
+    text: |+
+
+
+      ### ******
 
   - colors: colors-f
     type: FeaturedProjectsSection
