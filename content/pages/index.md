@@ -19,7 +19,7 @@ sections:
       passion for machine learning with strong full-stack fundamentals.
     styles:
       self:
-        height: auto
+        height: screen
         width: wide
         margin:
           - mt-0
