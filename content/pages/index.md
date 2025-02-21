@@ -47,8 +47,6 @@ sections:
     text: |+
 
 
-      ### ******
-
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
