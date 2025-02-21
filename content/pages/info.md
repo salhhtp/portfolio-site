@@ -66,7 +66,7 @@ sections:
     subtitle: 'I worked with these folks:'
     images:
       - type: ImageBlock
-        url: /images/Ekran Resmi 2025-02-21 20.49.03.png
+        url: /images/47e63ba0-27a4-4be3-813c-aac7e438642c_removalai_preview.png
         altText: Logo one
         caption: Logo one
       - type: ImageBlock
