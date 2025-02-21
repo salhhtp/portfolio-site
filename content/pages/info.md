@@ -78,7 +78,7 @@ sections:
         altText: Logo three
         caption: Logo three
     spacing: 3
-    columns: 4
+    columns: 3
     aspectRatio: auto
     showCaption: false
     enableHover: false
