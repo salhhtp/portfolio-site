@@ -195,7 +195,7 @@ sections:
           self:
             textAlign: left
     columns: 3
-    spacingX: 152
+    spacingX: 8
     spacingY: 0
     styles:
       self:
