@@ -166,7 +166,7 @@ sections:
         actions:
           - type: Link
             label: LinkedIn
-            url: 'https://www.linkedin.com/'
+            url: 'https://www.linkedin.com/in/salhhtp/'
         styles:
           self:
             textAlign: left
