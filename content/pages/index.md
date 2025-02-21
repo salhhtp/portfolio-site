@@ -45,8 +45,8 @@ sections:
     type: HeroSection
     actions: []
     text: >+
-      ##### *Bridging the gap between business needs and cutting-edge
-      technology!*
+      ##### ***Bridging the gap between business needs and cutting-edge
+      technology!***
 
   - colors: colors-f
     type: FeaturedProjectsSection
