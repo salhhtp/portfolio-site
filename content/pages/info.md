@@ -169,6 +169,9 @@ sections:
       - type: Label
         label: Power BI
         url: ''
+      - type: Label
+        label: Tableau
+        url: ''
   - type: DividerSection
     styles:
       self:
