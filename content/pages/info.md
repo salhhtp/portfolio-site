@@ -159,7 +159,7 @@ sections:
       - type: Label
         label: Next.js
       - type: Label
-        label: Netlify
+        label: Prompt Engineering
       - type: Label
         label: Pancakes
       - type: Label
