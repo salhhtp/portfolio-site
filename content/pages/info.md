@@ -155,6 +155,9 @@ sections:
       - type: Label
         label: TypeScript
       - type: Label
+        label: JavaScript
+        url: ''
+      - type: Label
         label: Node.js
       - type: Label
         label: Next.js
@@ -192,9 +195,6 @@ sections:
         url: ''
       - type: Label
         label: Bitbucket
-        url: ''
-      - type: Label
-        label: JavaScript
         url: ''
   - type: DividerSection
     styles:
