@@ -11,7 +11,10 @@ excerpt: >-
   customer experience.
 featuredImage:
   type: ImageBlock
-  url: /images/featured-Image1.jpg
+  url: >-
+    /images/DALL·E 2025-03-02 20.04.50 - 1. __Navigating the AI Landscape in
+    2025___ A futuristic cityscape with glowing circuit lines overlaying a human
+    head silhouette, symbolizing AI innov.webp
   altText: Post thumbnail image
 backgroundImage:
   type: BackgroundImage
