@@ -287,10 +287,16 @@ sections:
       - type: FeaturedItem
         title: Awards & Achievements
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          *   **Volvo X Hyper Island Hack Sprint – Best Pitch** (Nov 2023)
+
+
+          *   **TopStep Funded Trader** (May 2024) – Demonstrated advanced
+          trading analytics
+
+
+          *   **Master in Prompt Engineering** (AI Academy, Jan 2024)
+
         elementId: ''
         styles:
           self:
