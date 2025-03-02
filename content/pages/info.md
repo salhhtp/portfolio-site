@@ -165,7 +165,7 @@ sections:
       - type: Label
         label: PostgreSQL
       - type: Label
-        label: Pandas
+        label: pandas
       - type: Label
         label: PowerBI
         url: ''
