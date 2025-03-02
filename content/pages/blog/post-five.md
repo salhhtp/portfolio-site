@@ -112,7 +112,7 @@ backgroundImage:
   type: BackgroundImage
   url: /images/gallery-2.jpg
   backgroundSize: cover
-  backgroundPosition: center
+  backgroundPosition: left
   backgroundRepeat: no-repeat
   opacity: 100
 ---
