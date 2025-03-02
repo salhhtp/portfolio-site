@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: "How to Structure and Organize a Next.js Project \U0001F5C2️"
+title: How Prompt Engineering Enhances AI Projects
 colors: colors-a
 date: '2025-02-28'
 author: content/data/team/doris-soto.json
