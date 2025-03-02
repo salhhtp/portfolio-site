@@ -255,7 +255,7 @@ sections:
               - pr-0
         title: Experience
       - type: FeaturedItem
-        subtitle: 'Education:'
+        subtitle: ''
         text: >+
           **August 2023-March 2025**
 
