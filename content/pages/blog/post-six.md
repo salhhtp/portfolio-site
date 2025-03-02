@@ -4,7 +4,11 @@ title: How Prompt Engineering Enhances AI Projects
 colors: colors-a
 date: '2025-02-28'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: >-
+  Prompt Engineering is revolutionizing how we interact with large language
+  models. In this post, I demystify prompt design, explain common pitfalls, and
+  show you how to optimize prompts for different use cases—from chatbots to text
+  summarizers.
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image6.jpg
