@@ -108,6 +108,13 @@ bottomSections:
         textAlign: left
       text:
         textAlign: left
+backgroundImage:
+  type: BackgroundImage
+  url: /images/bg2.jpg
+  backgroundSize: cover
+  backgroundPosition: center
+  backgroundRepeat: no-repeat
+  opacity: 100
 ---
 ## Introduction
 E-commerce isn’t just about creating a website to sell products; it’s about delivering a smooth, enjoyable, and trusted experience for your customers. Over the past few years, I’ve built multiple full-stack e-commerce applications—each project bringing new insights and exposing new pitfalls. In this blog post, I’ll share some of the key lessons I’ve learned, covering everything from technology stack selection to security, performance, and user experience.
