@@ -216,26 +216,43 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: |-
-          **Current**
+        text: >+
+          **2024 October-2025 March**
 
-          * freelance @freelance.me
 
-          **2018-2021**
+          *   Junior AI Developer and Internship at Carbon Centrum AS - Focus on
+          TypeScript, Node.js, API design, and algorithm development.
 
-          * fullstack at this startup
 
-          **2015**
+          **2023 November-Current**
 
-          * senior front-end at this place
 
-          **2013**
+          *   Futures Trader & Portfolio Manager at Topstep - Developed
+          data-driven trading strategies and honed my analytical thinking.
 
-          * intern developer at a big company
 
-          **2011**
+          **2023 August - 2025 March**
 
-          * flipping burgers
+
+          *   Student at Hyper Island Stockholm AB - Working on real-world
+          projects that combine design thinking, business strategy, and advanced
+          analytics that incorporates artificial intelligence.
+
+
+          **2022 January - 2022 September**
+
+
+          *   Mechatronics Technician and Intern at Nurtiz Mekatronik - Worked
+          on to aid mechanical and electronical capacities of industrial type
+          machines.
+
+
+          **October 2018 - February 2024**
+
+
+          *   Manager and Co-Owner of Milano Cafe Istanbul - Management of a
+          coffee house establishment for both as an enjoyment and side hustle.
+
         styles:
           self:
             textAlign: left
