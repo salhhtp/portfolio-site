@@ -111,7 +111,7 @@ bottomSections:
 backgroundImage:
   type: BackgroundImage
   url: /images/gallery-2.jpg
-  backgroundSize: cover
+  backgroundSize: auto
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 100
