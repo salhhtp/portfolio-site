@@ -4,7 +4,11 @@ title: 'Building a Full-Stack E-Commerce App: Lessons Learned'
 colors: colors-a
 date: '2025-02-24'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: >-
+  Taking an e-commerce project from ideation to deployment is a rollercoaster
+  ride—especially when juggling front-end, back-end, and database concerns. In
+  this article, I share the top lessons I learned about scalable architecture,
+  user experience, and performance optimization.
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image5.jpg
