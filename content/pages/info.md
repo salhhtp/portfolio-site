@@ -193,6 +193,9 @@ sections:
       - type: Label
         label: Bitbucket
         url: ''
+      - type: Label
+        label: JavaScript
+        url: ''
   - type: DividerSection
     styles:
       self:
