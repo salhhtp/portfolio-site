@@ -2,7 +2,7 @@
 type: PostLayout
 title: 'Building a Full-Stack E-Commerce App: Lessons Learned'
 colors: colors-a
-date: '2024-02-24'
+date: '2025-02-24'
 author: content/data/team/doris-soto.json
 excerpt: More context that may or may not be helpful
 featuredImage:
