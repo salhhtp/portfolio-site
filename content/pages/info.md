@@ -153,7 +153,7 @@ sections:
       - type: Label
         label: Python
       - type: Label
-        label: Typescript
+        label: TypeScript
       - type: Label
         label: Microsoft Office
       - type: Label
