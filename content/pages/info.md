@@ -285,7 +285,7 @@ sections:
               - pb-0
               - pr-0
       - type: FeaturedItem
-        title: I
+        title: Awards & Achievements
         subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
