@@ -181,6 +181,9 @@ sections:
       - type: Label
         label: REST API's
         url: ''
+      - type: Label
+        label: Git
+        url: ''
   - type: DividerSection
     styles:
       self:
