@@ -187,6 +187,9 @@ sections:
       - type: Label
         label: Docker
         url: ''
+      - type: Label
+        label: Bitbucket
+        url: ''
   - type: DividerSection
     styles:
       self:
