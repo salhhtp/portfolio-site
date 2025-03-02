@@ -166,6 +166,9 @@ sections:
         label: PostgreSQL
       - type: Label
         label: Pandas
+      - type: Label
+        label: PowerBI
+        url: ''
   - type: DividerSection
     styles:
       self:
