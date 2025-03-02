@@ -256,6 +256,14 @@ sections:
       - type: FeaturedItem
         subtitle: 'Education:'
         text: >+
+          **August 2023-March 2025**
+
+
+          *   Student at Hyper Island Stockholm AB - Working on real-world
+          projects that combine design thinking, business strategy, and advanced
+          analytics that incorporates artificial intelligence.
+
+
           **August 2019-June 2022**
 
 
@@ -267,8 +275,6 @@ sections:
 
 
           *   My highschool
-
-
 
         styles:
           self:
