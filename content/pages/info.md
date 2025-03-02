@@ -188,6 +188,9 @@ sections:
         label: Docker
         url: ''
       - type: Label
+        label: Github Actions
+        url: ''
+      - type: Label
         label: Bitbucket
         url: ''
   - type: DividerSection
