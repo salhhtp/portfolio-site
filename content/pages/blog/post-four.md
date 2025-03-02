@@ -2,7 +2,7 @@
 type: PostLayout
 title: 'The Intersection of AI and Healthcare: A Practical Overview'
 colors: colors-a
-date: ''
+date: '0202-02-17'
 author: content/data/team/doris-soto.json
 excerpt: More context that may or may not be helpful
 featuredImage:
