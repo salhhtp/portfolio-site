@@ -13,7 +13,7 @@
                 "showAuthor": false,
                 "showExcerpt": true,
                 "showReadMoreLink": true,
-                "posts": ["content/pages/blog/post-five.md", "content/pages/blog/post-four.md"],
+                "posts": ["content/pages/blog/post-one.md", "content/pages/blog/post-two.md"],
                 "actions": [
                     {
                         "type": "Link",
@@ -53,7 +53,7 @@
                 "showAuthor": false,
                 "showExcerpt": true,
                 "showReadMoreLink": true,
-                "posts": ["content/pages/blog/post-five.md", "content/pages/blog/post-four.md", "content/pages/blog/post-three.md"],
+                "posts": ["content/pages/blog/post-one.md", "content/pages/blog/post-two.md", "content/pages/blog/post-three.md"],
                 "actions": [
                     {
                         "type": "Link",
@@ -93,7 +93,7 @@
                 "showAuthor": false,
                 "showExcerpt": true,
                 "showReadMoreLink": true,
-                "posts": ["content/pages/blog/post-five.md"],
+                "posts": ["content/pages/blog/post-one.md"],
                 "actions": [],
                 "styles": {
                     "self": {
@@ -126,7 +126,7 @@
                 "showAuthor": false,
                 "showExcerpt": true,
                 "showReadMoreLink": true,
-                "posts": ["content/pages/blog/post-five.md", "content/pages/blog/post-four.md", "content/pages/blog/post-three.md"],
+                "posts": ["content/pages/blog/post-one.md", "content/pages/blog/post-two.md", "content/pages/blog/post-three.md"],
                 "actions": [
                     {
                         "type": "Link",
@@ -166,7 +166,7 @@
                 "showAuthor": false,
                 "showExcerpt": true,
                 "showReadMoreLink": true,
-                "posts": ["content/pages/blog/post-five.md", "content/pages/blog/post-four.md", "content/pages/blog/post-three.md"],
+                "posts": ["content/pages/blog/post-one.md", "content/pages/blog/post-two.md", "content/pages/blog/post-three.md"],
                 "actions": [
                     {
                         "type": "Link",
