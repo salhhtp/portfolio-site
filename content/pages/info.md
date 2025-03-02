@@ -215,7 +215,7 @@ sections:
     colors: colors-f
     items:
       - type: FeaturedItem
-        subtitle: 'Experience:'
+        subtitle: ''
         text: >+
           **October 2024-March 2025**
 
