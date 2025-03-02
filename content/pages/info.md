@@ -163,7 +163,7 @@ sections:
       - type: Label
         label: SQL
       - type: Label
-        label: C++
+        label: PostgreSQL
       - type: Label
         label: Swift
   - type: DividerSection
