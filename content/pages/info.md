@@ -285,6 +285,7 @@ sections:
               - pl-0
               - pb-0
               - pr-0
+        title: Education
       - type: FeaturedItem
         title: Awards & Achievements
         subtitle: ''
