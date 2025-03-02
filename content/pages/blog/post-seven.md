@@ -2,7 +2,7 @@
 type: PostLayout
 title: Navigating the AI Landscape in 2025
 colors: colors-a
-date: '2024-06-02'
+date: ''
 author: content/data/team/doris-soto.json
 excerpt: More context that may or may not be helpful
 featuredImage:
