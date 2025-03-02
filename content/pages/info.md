@@ -165,7 +165,7 @@ sections:
       - type: Label
         label: PostgreSQL
       - type: Label
-        label: Swift
+        label: Pandas
   - type: DividerSection
     styles:
       self:
