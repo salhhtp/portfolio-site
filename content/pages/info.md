@@ -217,21 +217,21 @@ sections:
       - type: FeaturedItem
         subtitle: 'Experience:'
         text: >+
-          **2024 October-2025 March**
+          **October 2024-March 2025**
 
 
           *   Junior AI Developer and Internship at Carbon Centrum AS - Focus on
           TypeScript, Node.js, API design, and algorithm development.
 
 
-          **2023 November-Current**
+          **November 2023-Current**
 
 
           *   Futures Trader & Portfolio Manager at Topstep - Developed
           data-driven trading strategies and honed my analytical thinking.
 
 
-          **2023 August - 2025 March**
+          **August 2023-March 2025**
 
 
           *   Student at Hyper Island Stockholm AB - Working on real-world
@@ -239,7 +239,7 @@ sections:
           analytics that incorporates artificial intelligence.
 
 
-          **2022 January - 2022 September**
+          **January 2022-September 2022**
 
 
           *   Mechatronics Technician and Intern at Nurtiz Mekatronik - Worked
@@ -247,7 +247,7 @@ sections:
           machines.
 
 
-          **October 2018 - February 2024**
+          **October 2018-February 2024**
 
 
           *   Manager and Co-Owner of Milano Cafe Istanbul - Management of a
