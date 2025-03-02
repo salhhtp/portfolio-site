@@ -161,7 +161,7 @@ sections:
       - type: Label
         label: Prompt Engineering
       - type: Label
-        label: Pancakes
+        label: SQL
       - type: Label
         label: C++
       - type: Label
