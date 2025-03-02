@@ -4,7 +4,11 @@ title: Navigating the AI Landscape in 2025
 colors: colors-a
 date: '2025-03-02'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: >-
+  AI is no longer just a buzzword—it’s a strategic asset shaping industries
+  worldwide. In this post, I share insights on how small to medium businesses
+  can harness AI to streamline operations, predict market trends, and enhance
+  customer experience.
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image1.jpg
