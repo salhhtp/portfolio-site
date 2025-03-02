@@ -184,6 +184,9 @@ sections:
       - type: Label
         label: Git
         url: ''
+      - type: Label
+        label: Docker
+        url: ''
   - type: DividerSection
     styles:
       self:
