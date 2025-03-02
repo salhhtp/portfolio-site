@@ -4,7 +4,16 @@ title: 'The Intersection of AI and Healthcare: A Practical Overview'
 colors: colors-a
 date: '2025-02-17'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: >-
+  How is artificial intelligence reshaping modern medicine? From AI-assisted
+  diagnostics to predictive analytics, machine learning is revolutionizing
+  healthcare in ways we never imagined. In this post, we explore how AI is
+  improving patient outcomes, reducing wait times, and personalizing
+  treatments—while also addressing key challenges like data privacy, algorithmic
+  bias, and regulatory compliance. Whether you're a tech enthusiast, a
+  healthcare professional, or just curious about the future of medicine, this
+  article provides a practical guide to AI’s role in shaping the next generation
+  of healthcare solutions.
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image4.jpg
