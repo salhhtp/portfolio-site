@@ -196,6 +196,9 @@ sections:
       - type: Label
         label: Bitbucket
         url: ''
+      - type: Label
+        label: C++
+        url: ''
   - type: DividerSection
     styles:
       self:
