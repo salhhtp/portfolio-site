@@ -263,18 +263,21 @@ sections:
               - pr-0
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |-
-          **2015-2018**
+        text: >+
+          **August 2019-June 2022**
 
-          * ba computer sciense at a semi fancy school
 
-          **2014**
+          *   Bachelor's in Electrical Engineering at Yildiz Technical
+          University
 
-          * react certificate somewhere
 
-          **2011**
+          **August 2015-June 2019**
 
-          * my highschool
+
+          *   My highschool
+
+
+
         styles:
           self:
             textAlign: left
