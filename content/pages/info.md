@@ -155,7 +155,7 @@ sections:
       - type: Label
         label: TypeScript
       - type: Label
-        label: Microsoft Office
+        label: Node.js
       - type: Label
         label: Next.js
       - type: Label
