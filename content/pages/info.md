@@ -172,6 +172,9 @@ sections:
       - type: Label
         label: Tableau
         url: ''
+      - type: Label
+        label: React.js
+        url: ''
   - type: DividerSection
     styles:
       self:
