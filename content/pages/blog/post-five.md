@@ -11,7 +11,10 @@ excerpt: >-
   user experience, and performance optimization.
 featuredImage:
   type: ImageBlock
-  url: /images/featured-Image5.jpg
+  url: >-
+    /images/DALL·E 2025-03-02 20.11.17 - 2. __Building a Full-Stack E-Commerce
+    App_ Lessons Learned___ A laptop screen displaying an online shopping
+    interface with shopping cart and product l.webp
   altText: Post thumbnail image
 bottomSections:
   - elementId: ''
