@@ -11,7 +11,10 @@ excerpt: >-
   summarizers.
 featuredImage:
   type: ImageBlock
-  url: /images/featured-Image6.jpg
+  url: >-
+    /images/DALL·E 2025-03-02 20.09.21 - 3. __How Prompt Engineering Enhances AI
+    Projects___ A stylized chat window with AI-generated text prompts appearing
+    in a sleek, futuristic interface. .webp
   altText: Post thumbnail image
 bottomSections:
   - elementId: ''
