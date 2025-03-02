@@ -110,7 +110,7 @@ bottomSections:
         textAlign: left
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg2.jpg
+  url: /images/gallery-2.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
