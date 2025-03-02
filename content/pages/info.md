@@ -158,6 +158,9 @@ sections:
         label: JavaScript
         url: ''
       - type: Label
+        label: C++
+        url: ''
+      - type: Label
         label: Node.js
       - type: Label
         label: Next.js
@@ -195,9 +198,6 @@ sections:
         url: ''
       - type: Label
         label: Bitbucket
-        url: ''
-      - type: Label
-        label: C++
         url: ''
   - type: DividerSection
     styles:
