@@ -167,7 +167,7 @@ sections:
       - type: Label
         label: pandas
       - type: Label
-        label: PowerBI
+        label: Power BI
         url: ''
   - type: DividerSection
     styles:
