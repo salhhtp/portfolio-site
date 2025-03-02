@@ -179,7 +179,7 @@ sections:
         label: Express.js
         url: ''
       - type: Label
-        label: Rest API's
+        label: REST API's
         url: ''
   - type: DividerSection
     styles:
