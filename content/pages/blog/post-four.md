@@ -16,7 +16,10 @@ excerpt: >-
   of healthcare solutions.
 featuredImage:
   type: ImageBlock
-  url: /images/featured-Image4.jpg
+  url: >-
+    /images/DALL·E 2025-03-02 20.16.09 - 4. __The Intersection of AI and
+    Healthcare_ A Practical Overview___ A stethoscope blending into a circuit
+    board, representing the integration of AI in.webp
   altText: Post thumbnail image
 bottomSections:
   - elementId: ''
