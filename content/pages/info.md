@@ -231,14 +231,6 @@ sections:
           data-driven trading strategies and honed my analytical thinking.
 
 
-          **August 2023-March 2025**
-
-
-          *   Student at Hyper Island Stockholm AB - Working on real-world
-          projects that combine design thinking, business strategy, and advanced
-          analytics that incorporates artificial intelligence.
-
-
           **January 2022-September 2022**
 
 
