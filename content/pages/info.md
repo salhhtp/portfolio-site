@@ -188,7 +188,7 @@ sections:
         label: Docker
         url: ''
       - type: Label
-        label: Github Actions
+        label: GitHub Actions
         url: ''
       - type: Label
         label: Bitbucket
