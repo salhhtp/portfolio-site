@@ -1,21 +1,21 @@
 ---
 type: PostLayout
-title: How I started a startup 🚀
+title: 'Building a Full-Stack E-Commerce App: Lessons Learned'
 colors: colors-a
-date: '2021-06-28'
+date: '2025-02-24'
 author: content/data/team/doris-soto.json
 excerpt: >-
-  More context that may or may not be helpful
+  Taking an e-commerce project from ideation to deployment is a rollercoaster
+  ride—especially when juggling front-end, back-end, and database concerns. In
+  this article, I share the top lessons I learned about scalable architecture,
+  user experience, and performance optimization.
 featuredImage:
   type: ImageBlock
-  url: /images/featured-Image1.jpg
+  url: >-
+    /images/DALL·E 2025-03-02 20.11.17 - 2. __Building a Full-Stack E-Commerce
+    App_ Lessons Learned___ A laptop screen displaying an online shopping
+    interface with shopping cart and product l.webp
   altText: Post thumbnail image
-media:
-  url: /images/post-2.jpg
-  altText: altText of the image
-  caption: Caption of the image
-  elementId: ''
-  type: ImageBlock
 bottomSections:
   - elementId: ''
     type: RecentPostsSection
@@ -51,7 +51,7 @@ bottomSections:
     showReadMoreLink: true
   - type: ContactSection
     backgroundSize: full
-    title: 'Stay up-to-date with my words ✍️'
+    title: Stay up-to-date with my words ✍️
     colors: colors-f
     form:
       type: FormBlock
@@ -90,7 +90,7 @@ bottomSections:
     styles:
       self:
         height: auto
-        width: wide
+        width: narrow
         margin:
           - mt-0
           - mb-0
@@ -108,20 +108,78 @@ bottomSections:
         textAlign: left
       text:
         textAlign: left
+backgroundImage:
+  type: BackgroundImage
+  url: /images/featured-Image2.jpg
+  backgroundSize: cover
+  backgroundPosition: center
+  backgroundRepeat: no-repeat
+  opacity: 100
 ---
+## Introduction
+E-commerce isn’t just about creating a website to sell products; it’s about delivering a smooth, enjoyable, and trusted experience for your customers. Over the past few years, I’ve built multiple full-stack e-commerce applications—each project bringing new insights and exposing new pitfalls. In this blog post, I’ll share some of the key lessons I’ve learned, covering everything from technology stack selection to security, performance, and user experience.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+## Choosing the Right Tech Stack
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+1. **Front-End Framework**  
+   React, Vue, or Angular can all provide rich, interactive interfaces. React stands out for its active community and vast ecosystem, making it easier to find libraries for carts, forms, and more.
 
-## About Coding
+2. **Back-End & Database**  
+   Node.js with Express or Nest.js is a popular choice for handling REST APIs, especially in high-traffic scenarios. For the database layer, MongoDB or PostgreSQL both offer unique advantages:  
+   - **MongoDB** for document-based flexibility  
+   - **PostgreSQL** for robust relational features
 
-> “Coding is the language of the future, and every girl should learn it. As I've learned from watching girls grow and learn in our classrooms, coding is fun, collaborative and creative.”
+3. **Security & Payment Integration**  
+   E-commerce inherently involves sensitive user data. Integrating secure payment gateways like Stripe or PayPal ensures encrypted transactions, fraud protection, and user trust.
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+## Architectural Considerations
 
-## Productivity
+- **Microservices vs. Monolithic**  
+  A monolithic application might be easier to set up initially, but scaling becomes a challenge. Microservices allow for independent scaling of components like inventory management, user authentication, and checkout.
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+- **SSR vs. CSR**  
+  Server-Side Rendering (SSR) can boost performance and SEO for product pages, but it adds complexity to the deployment pipeline. Client-Side Rendering (CSR) offers quicker interactivity but can be less SEO-friendly if not handled properly.
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+## User Experience & Interface Design
+
+1. **Responsive Layouts**  
+   Your shoppers could be on desktop, mobile, or tablets. Ensure your UI adapts seamlessly to different screen sizes.
+
+2. **Intuitive Navigation**  
+   Categories, filters, and search functionality should be clearly laid out. If users can’t find what they’re looking for within seconds, they’ll likely leave.
+
+3. **Trust Signals**  
+   Displaying secure checkout badges, payment icons, and clear return policies can make users feel more at ease, thus improving conversions.
+
+## Performance & Scalability
+
+- **Caching & CDN**  
+  Use caching mechanisms (e.g., Redis) to reduce database reads. Distribute your static assets via a CDN to speed up loading times across geographies.
+
+- **Load Testing & Monitoring**  
+  Tools like Apache JMeter or k6 can simulate traffic spikes. Monitor metrics like response times, error rates, and server utilization to identify bottlenecks.
+
+## Security Best Practices
+
+1. **HTTPS Everywhere**  
+   Use SSL/TLS to encrypt all data in transit, particularly during checkout and login.
+
+2. **Regular Updates & Patching**  
+   Frameworks, libraries, and server software should be up to date to protect against known vulnerabilities.
+
+3. **SQL/NoSQL Injection Protections**  
+   Sanitize all user inputs and use parameterized queries to prevent injection attacks.
+
+## Real-World Lessons Learned
+
+- **Start with an MVP**  
+  It’s tempting to build every feature from day one—loyalty programs, subscription models, advanced analytics—but scope creep can delay your launch indefinitely. Roll out in phases, validate what works, and iterate.
+
+- **Focus on Analytics Early**  
+  Understanding user behavior through Google Analytics or a custom dashboard can guide feature prioritization. Track add-to-cart rates, conversion rates, and average time on page.
+
+- **Customer Support & Feedback Loops**  
+  Offer easy ways for customers to give feedback or reach out for help. Negative reviews or high return rates often provide critical clues on how to refine your product listings or user flow.
+
+## Conclusion
+Building a full-stack e-commerce application is a rewarding yet challenging undertaking that pushes you to consider performance, security, user experience, and continuous improvement. By choosing a robust tech stack, prioritizing user-centric design, and planning for scalability from the get-go, you’ll be in a strong position to deliver a world-class online shopping experience. Whether you’re an indie entrepreneur or part of a larger development team, the key is to iterate quickly, learn from user behavior, and keep security at the heart of your design.

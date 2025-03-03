@@ -1,10 +1,10 @@
 ---
 type: PageLayout
 title: Home
-colors: colors-a
+colors: colors-c
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg1.jpg
+  url: /images/bg4.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
@@ -14,12 +14,12 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+      Hi, I’m Salih                                         -AI Developer &
+      Full-Stack Enthusiast.
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      I build data-driven solutions and scalable web applications, combining my
+      passion for machine learning with strong full-stack fundamentals to help
+      bridging the gap between business needs and cutting-edge technology!
     styles:
       self:
         height: auto
@@ -47,6 +47,9 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
+    text: |+
+
+
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
@@ -62,7 +65,6 @@ sections:
     projects:
       - content/pages/projects/project-two.md
       - content/pages/projects/project-three.md
-      - content/pages/projects/project-one.md
     styles:
       self:
         height: auto
@@ -84,7 +86,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: 'Projects'
+    subtitle: Projects
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
@@ -96,8 +98,8 @@ sections:
         label: See all posts
         url: /blog
     posts:
-      - content/pages/blog/post-six.md
-      - content/pages/blog/post-four.md
+      - content/pages/blog/post-one.md
+      - content/pages/blog/post-two.md
       - content/pages/blog/post-three.md
     showDate: true
     showExcerpt: true
@@ -130,7 +132,7 @@ sections:
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
-    title: "Got an interesting project? Tell me more...\U0001F4AC"
+    title: "Interested in collaborating? Tell me more...\U0001F4AC"
     form:
       type: FormBlock
       elementId: sign-up-form

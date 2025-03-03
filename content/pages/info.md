@@ -1,10 +1,10 @@
 ---
 type: PageLayout
 title: About
-colors: colors-a
+colors: colors-b
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg4.jpg
+  url: /images/bg1.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
@@ -13,14 +13,10 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: ''
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/IMG_5634.jpg
       altText: Hero image
     styles:
       self:
@@ -46,6 +42,47 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
+    title: Who I am?
+    subtitle: >-
+      I’m an AI Developer and AI Business Consultant-in-training with a strong
+      foundation in Electrical Engineering. Currently pursuing my AI Business
+      Consultant program at Hyper Island, I thrive on staying at the forefront
+      of innovation through continuous learning and hands-on experimentation.
+  - type: HeroSection
+    title: My Background
+    subtitle: >-
+      My academic journey began at Yıldız Technical University, where I studied
+      Electrical Engineering. During this time, I developed an analytical
+      mindset and a fascination for how systems work—both in hardware and
+      software.After several years of diverse experience—from Mechatronics
+      Technician to Managing a cafe—I transitioned into the world of AI and
+      software development. I’ve since gained multiple certifications in Data
+      Analysis, Machine Learning, and Full-Stack development (including an IBM
+      Full Stack Software Developer Specialization).
+    actions: []
+    colors: colors-f
+    backgroundSize: full
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-36
+          - pb-48
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: row
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
   - type: DividerSection
     styles:
       self:
@@ -63,27 +100,19 @@ sections:
     subtitle: 'I worked with these folks:'
     images:
       - type: ImageBlock
-        url: /images/logo1.svg
+        url: /images/47e63ba0-27a4-4be3-813c-aac7e438642c_removalai_preview.png
         altText: Logo one
-        caption: Logo one
+        caption: Carbon Centrum
       - type: ImageBlock
-        url: /images/logo2.svg
+        url: /images/0eca8522-716d-4b3b-8651-f87a1165a1cb_removalai_preview.png
         altText: Logo two
-        caption: Logo two
+        caption: Topstep
       - type: ImageBlock
-        url: /images/logo3.svg
+        url: /images/d563f46e-8e14-40a3-acd4-ff605e451af7_removalai_preview.png
         altText: Logo three
-        caption: Logo three
-      - type: ImageBlock
-        url: /images/logo4.svg
-        altText: Logo four
-        caption: Logo four
-      - type: ImageBlock
-        url: /images/logo5.svg
-        altText: Logo five
-        caption: Logo five
-    spacing: 3
-    columns: 5
+        caption: Hyper Island
+    spacing: 160
+    columns: 3
     aspectRatio: auto
     showCaption: false
     enableHover: false
@@ -117,129 +146,62 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
-  - type: FeaturedItemsSection
-    colors: colors-f
-    items:
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: GitHub
-            url: 'https://github.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Twitter
-            url: 'https://twitter.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: LinkedIn
-            url: 'https://www.linkedin.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: CodePen
-            url: 'https://codepen.io/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Discord
-            url: 'https://discord.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Instagram
-            url: 'https://www.instagram.com/'
-        styles:
-          self:
-            textAlign: left
-    columns: 3
-    spacingX: 120
-    spacingY: 0
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-    subtitle: 'You can find me here:'
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
-        borderStyle: solid
   - type: LabelsSection
     colors: colors-f
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: Python
       - type: Label
-        label: React
+        label: TypeScript
       - type: Label
-        label: Microsoft Office
+        label: JavaScript
+        url: ''
+      - type: Label
+        label: C++
+        url: ''
+      - type: Label
+        label: Node.js
+      - type: Label
+        label: Flask
+        url: ''
       - type: Label
         label: Next.js
       - type: Label
-        label: Netlify
+        label: Prompt Engineering
       - type: Label
-        label: Pancakes
+        label: SQL
       - type: Label
-        label: C++
+        label: PostgreSQL
       - type: Label
-        label: Swift
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
-        borderStyle: solid
-  - type: TextSection
-    variant: variant-a
-    subtitle: 'Contact:'
-    colors: colors-f
-    text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
+        label: pandas
+      - type: Label
+        label: Power BI
+        url: ''
+      - type: Label
+        label: Tableau
+        url: ''
+      - type: Label
+        label: React.js
+        url: ''
+      - type: Label
+        label: Express.js
+        url: ''
+      - type: Label
+        label: REST API's
+        url: ''
+      - type: Label
+        label: Git
+        url: ''
+      - type: Label
+        label: Docker
+        url: ''
+      - type: Label
+        label: GitHub Actions
+        url: ''
+      - type: Label
+        label: Bitbucket
+        url: ''
   - type: DividerSection
     styles:
       self:
@@ -256,27 +218,36 @@ sections:
     colors: colors-f
     items:
       - type: FeaturedItem
-        subtitle: 'Experience:'
-        text: |-
-          **Current**
+        subtitle: ''
+        text: >+
+          **October 2024-March 2025**
 
-          * freelance @freelance.me
 
-          **2018-2021**
+          *   Junior AI Developer and Internship at Carbon Centrum AS - Focus on
+          TypeScript, Node.js, API design, and algorithm development.
 
-          * fullstack at this startup
 
-          **2015**
+          **November 2023-Current**
 
-          * senior front-end at this place
 
-          **2013**
+          *   Futures Trader & Portfolio Manager at Topstep - Developed
+          data-driven trading strategies and honed my analytical thinking.
 
-          * intern developer at a big company
 
-          **2011**
+          **January 2022-September 2022**
 
-          * flipping burgers
+
+          *   Mechatronics Technician and Intern at Nurtiz Mekatronik - Worked
+          on to aid mechanical and electronical capacities of industrial type
+          machines.
+
+
+          **October 2018-February 2024**
+
+
+          *   Manager and Co-Owner of Milano Cafe Istanbul - Management of a
+          coffee house establishment for both as an enjoyment and side hustle.
+
         styles:
           self:
             textAlign: left
@@ -285,20 +256,30 @@ sections:
               - pl-0
               - pb-0
               - pr-0
+        title: Experience
       - type: FeaturedItem
-        subtitle: 'Education:'
-        text: |-
-          **2015-2018**
+        subtitle: ''
+        text: >+
+          **August 2023-March 2025**
 
-          * ba computer sciense at a semi fancy school
 
-          **2014**
+          *   Student at Hyper Island Stockholm AB - Working on real-world
+          projects that combine design thinking, business strategy, and advanced
+          analytics that incorporates artificial intelligence.
 
-          * react certificate somewhere
 
-          **2011**
+          **August 2019-June 2022**
 
-          * my highschool
+
+          *   Bachelor's in Electrical Engineering at Yildiz Technical
+          University
+
+
+          **August 2015-June 2019**
+
+
+          *   My highschool
+
         styles:
           self:
             textAlign: left
@@ -307,6 +288,24 @@ sections:
               - pl-0
               - pb-0
               - pr-0
+        title: Education
+      - type: FeaturedItem
+        title: Awards & Achievements
+        subtitle: ''
+        text: >+
+          *   **Volvo X Hyper Island Hack Sprint – Best Pitch** (Nov 2023)
+
+
+          *   **TopStep Funded Trader** (May 2024) – Demonstrated advanced
+          trading analytics
+
+
+          *   **Master in Prompt Engineering** (AI Academy, Jan 2024)
+
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
     columns: 2
     spacingX: 60
     spacingY: 60

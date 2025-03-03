@@ -1,22 +1,28 @@
 ---
 type: PostLayout
-title: Composable - the future of web
-colors: colors-b
-date: '2024-01-01'
+title: Navigating the AI Landscape in 2025
+colors: colors-a
+date: '2025-03-02'
 author: content/data/team/doris-soto.json
 excerpt: >-
-  More context that may or may not be helpful
+  AI is no longer just a buzzword—it’s a strategic asset shaping industries
+  worldwide. In this post, I share insights on how small to medium businesses
+  can harness AI to streamline operations, predict market trends, and enhance
+  customer experience.
 featuredImage:
   type: ImageBlock
-  url: /images/featured-Image3.jpg
+  url: >-
+    /images/DALL·E 2025-03-02 20.04.50 - 1. __Navigating the AI Landscape in
+    2025___ A futuristic cityscape with glowing circuit lines overlaying a human
+    head silhouette, symbolizing AI innov.webp
   altText: Post thumbnail image
 backgroundImage:
   type: BackgroundImage
-  url: /images/gallery-2.jpg
+  url: /images/bg2.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
-  opacity: 10
+  opacity: 20
 bottomSections:
   - elementId: ''
     type: RecentPostsSection
@@ -52,7 +58,7 @@ bottomSections:
     showReadMoreLink: true
   - type: ContactSection
     backgroundSize: full
-    title: 'Stay up-to-date with my words ✍️'
+    title: Stay up-to-date with my words ✍️
     colors: colors-f
     form:
       type: FormBlock
@@ -91,7 +97,7 @@ bottomSections:
     styles:
       self:
         height: auto
-        width: wide
+        width: narrow
         margin:
           - mt-0
           - mb-0
@@ -110,39 +116,54 @@ bottomSections:
       text:
         textAlign: left
 ---
+# 1. Navigating the AI Landscape in 2025
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+## Introduction
+Artificial Intelligence has shifted from a buzzword to a transformative force across nearly every sector—from healthcare and finance to retail and entertainment. As we step into 2025, AI is more accessible than ever, thanks to a growing library of open-source tools, pre-trained models, and competitive cloud-based services. Yet, with accessibility comes the responsibility to choose the right approach, build the right teams, and maintain ethical standards. In this post, I’ll explore the state of AI in 2025, covering emerging trends, ethical considerations, and practical steps you can take to capitalize on these advancements.
 
-## What is Composable Web?
+## The State of AI in 2025
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+1. **Proliferation of Specialized Models**  
+   Large-scale general-purpose models (like the GPT series) are still incredibly powerful, but we’re seeing a surge in specialized models trained for specific tasks or industries. Companies want more targeted solutions—like healthcare-specific language models or finance-focused anomaly detection systems—that reduce the noise and complexity of generalized AI.
 
-### Syntax highlighter in Next.js
+2. **Cost & Infrastructure Improvements**  
+   One of the most significant barriers to entry in the AI space used to be the hardware requirement for training large models. Now, with serverless computing and pay-as-you-go cloud services, more startups and small businesses can experiment with advanced AI without investing heavily in on-prem servers.
 
-```css
-.colors-a {
-  @apply bg-dark text-on-dark;
-  .sb-input,
-  .sb-select,
-  .sb-textarea {
-    @apply text-on-dark placeholder-on-dark placeholder-opacity-75;
-  }
-  .sb-header-links-primary .sb-component-link:before,
-  .sb-component-header .sb-component-social:before {
-    @apply bg-on-dark;
-  }
-  .sb-header-links-primary .sb-component-link:hover,
-  .sb-component-header .sb-component-social:hover {
-    @apply text-dark;
-  }
-  .sb-header-overlay {
-    @apply bg-dark;
-  }
-}
-```
+3. **AI Ethics on the Frontlines**  
+   Regulatory bodies and governments worldwide are debating frameworks to govern AI usage. Privacy laws, algorithmic transparency, and bias mitigation have become hot topics. Whether you’re a small dev team or a multinational corporation, compliance and ethical design must be part of your AI strategy from day one.
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+## Key Applications Driving Growth
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+- **Predictive Analytics & Forecasting**  
+  In e-commerce, supply chain, and finance, predictive models reduce risk and increase efficiency.
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+- **Natural Language Processing (NLP) & Conversational AI**  
+  Customer support chatbots, virtual assistants, and language translation services are more robust, context-aware, and user-friendly than ever before.
+
+- **Computer Vision & Image Recognition**  
+  From medical imaging to self-driving cars, vision-based AI applications are transforming how machines perceive and interact with the physical world.
+
+## Challenges & Considerations
+
+1. **Data Privacy & Ownership**  
+   With stricter data protection laws, there’s a growing emphasis on how data is collected, stored, and utilized. Companies need robust data governance strategies to maintain user trust.
+
+2. **Skill Gaps & Talent Shortages**  
+   While AI specialists are in high demand, the talent pool remains relatively small. Upskilling existing teams through bootcamps or specialized courses is a viable way to bridge this gap.
+
+3. **Integration with Legacy Systems**  
+   Many organizations still rely on outdated infrastructure. Integrating advanced AI solutions can be complicated, requiring phased approaches and strategic planning.
+
+## Practical Steps to Get Started
+
+- **Identify Clear Use Cases**  
+  Don’t implement AI for AI’s sake. Pinpoint a real business or user problem you aim to solve.
+
+- **Build or Upskill a Team**  
+  Invest in training and mentorship, whether you’re hiring fresh talent or empowering current employees.
+
+- **Adopt Iterative Deployment**  
+  Start small with proofs of concept, gather feedback, then scale up once you confirm the solution’s viability.
+
+## Conclusion
+In 2025, AI isn’t just a competitive edge—it’s quickly becoming a baseline requirement for businesses looking to thrive in a data-driven market. With the right mix of technological know-how, ethical considerations, and strategic vision, AI can unlock enormous potential for innovation. Whether you’re a startup founder, a tech enthusiast, or an enterprise leader, now is the perfect time to explore how AI can reshape your organization’s future.
