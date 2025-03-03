@@ -1,7 +1,7 @@
 ---
 type: ProjectFeedLayout
 title: Projects
-colors: colors-a
+colors: colors-e
 backgroundImage:
   type: BackgroundImage
   url: /images/bg1.jpg
