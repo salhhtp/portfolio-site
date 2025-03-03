@@ -199,6 +199,9 @@ sections:
       - type: Label
         label: Bitbucket
         url: ''
+      - type: Label
+        label: Flask
+        url: ''
   - type: DividerSection
     styles:
       self:
