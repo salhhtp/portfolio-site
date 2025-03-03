@@ -20,6 +20,13 @@ media:
   url: /images/Ekran Resmi 2025-03-03 18.48.02.png
   altText: Project image
 bottomSections: []
+backgroundImage:
+  type: BackgroundImage
+  url: /images/bg2.jpg
+  backgroundSize: cover
+  backgroundPosition: center
+  backgroundRepeat: no-repeat
+  opacity: 100
 ---
 ## Key Features
 
