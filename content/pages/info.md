@@ -4,7 +4,7 @@ title: About
 colors: colors-b
 backgroundImage:
   type: BackgroundImage
-  url: /images/featured-Image4.jpg
+  url: /images/IMG_5634.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
