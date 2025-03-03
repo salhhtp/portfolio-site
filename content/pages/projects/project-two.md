@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Hospital Demographic
 colors: colors-a
-date: '2021-12-02'
+date: ''
 client: Awesome client
 description: >-
   A dashboard that tailored for giving hospital management the best insights
