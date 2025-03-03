@@ -1,7 +1,7 @@
 ---
 type: PageLayout
 title: About
-colors: colors-d
+colors: colors-a
 backgroundImage:
   type: BackgroundImage
   url: /images/featured-Image4.jpg
