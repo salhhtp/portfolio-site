@@ -24,6 +24,13 @@ media:
   type: ImageBlock
   url: /images/Ekran Resmi 2025-03-03 18.16.59.png
   altText: Project image
+backgroundImage:
+  type: BackgroundImage
+  url: /images/bg2.jpg
+  backgroundSize: cover
+  backgroundPosition: center
+  backgroundRepeat: no-repeat
+  opacity: 100
 ---
 ## Key Features
 
