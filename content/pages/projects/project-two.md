@@ -5,7 +5,9 @@ colors: colors-a
 date: '2021-12-20'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably because I worked with an entire team :) but they definitely followed my lead most of the time.
+  A dashboard that tailored for giving hospital management the best insights
+  possible for understanding common denominators for a hospitals success while
+  considering different elements such as "bed grade", "admission deposit" etc.
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
