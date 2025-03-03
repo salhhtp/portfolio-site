@@ -1,7 +1,7 @@
 ---
 type: PostFeedLayout
 title: Blog
-colors: colors-e
+colors: colors-c
 backgroundImage:
   type: BackgroundImage
   url: /images/bg2.jpg
