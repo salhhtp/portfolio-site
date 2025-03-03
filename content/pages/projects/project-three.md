@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Intelligent Chatbot
+title: 'Intelligent Chatbot: An Advanced AI Conversational Assistant'
 colors: colors-a
 date: '2025-02-12'
 client: ''
