@@ -99,6 +99,4 @@ The Hospital Demographic Dashboard is a powerful tool designed to transform raw 
 
 ***
 
-**Check It Out:** [Tableau Public Link](https://publ!c.tableau.com/v!ews/Ind!v!dual_Assesment-
-Sal!h_Hat!poglu-Team_2/Dashboard1?:language=en-
-US&:s!d=&:d!splay_count=n&:or!g!n=v!z_share_l!nk)
+**Check It Out:** \[Tableau Public Link]\(https://public.tableau.com/app/profile/yozberk.hatipoglu/viz/Individual_Assesment-Salih_Hatipoglu-Team_2/Dashboard1)
