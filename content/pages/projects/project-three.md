@@ -14,7 +14,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/Ekran Resmi 2025-03-03 18.16.59.png
   altText: Project image
 ---
 
