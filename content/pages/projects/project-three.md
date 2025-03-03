@@ -5,9 +5,17 @@ colors: colors-a
 date: '2025-02-12'
 client: ''
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  The Intelligent Chatbot is a state-of-the-art conversational AI designed to
+  simulate human-like interactions while continuously improving its responses
+  through advanced learning techniques. Built using cutting-edge machine
+  learning models and enhanced with reinforcement learning from human feedback
+  (RLHF) and retrieval-augmented generation, this chatbot not only provides
+  context-aware replies but also searches the internet for up-to-date
+  information when necessary.Whether you’re looking to automate customer
+  support, create engaging virtual assistants, or simply explore the latest in
+  conversational AI, this project demonstrates how modern AI can blend natural
+  language processing with real-time information retrieval to deliver
+  intelligent, dynamic conversations.
 featuredImage:
   type: ImageBlock
   url: /images/Ekran Resmi 2025-03-03 18.16.59.png
