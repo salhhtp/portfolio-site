@@ -14,7 +14,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/1719369581704.jpeg
   altText: Project image
 bottomSections: []
 ---
