@@ -5,9 +5,12 @@ colors: colors-a
 date: '2024-03-20'
 client: ''
 description: >-
-  A dashboard that tailored for giving hospital management the best insights
-  possible for understanding common denominators for a hospitals success while
-  considering different elements such as "bed grade", "admission deposit" etc.
+  The Hospital Demographic Dashboard is an interactive, data-driven tool
+  designed to help healthcare administrators visualize and analyze key
+  demographic metrics. By combining advanced data analytics, visualization
+  techniques, and real-time data integration, this dashboard provides valuable
+  insights into hospital operations—such as bed occupancy, patient admissions,
+  demographic trends, and resource utilization.
 featuredImage:
   type: ImageBlock
   url: /images/1719368442342.jpeg
