@@ -25,15 +25,70 @@ media:
   url: /images/Ekran Resmi 2025-03-03 18.16.59.png
   altText: Project image
 ---
+## Key Features
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+- **Multi-turn Conversations:**  
+  Maintains context over multiple interactions using session-based memory and persistent storage (SQLite), ensuring coherent and contextually relevant responses.
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+- **Language & Model Switching:**  
+  Dynamically change the conversation language (e.g., English, Turkish, Spanish) and switch between different models (DialoGPT-medium, DialoGPT-large) to suit various user needs.
 
-> “Everybody should learn to program a computer, because it teaches you how to think.”
+- **Reinforcement Learning from Human Feedback (RLHF):**  
+  Integrates advanced RL techniques to continually fine-tune the model based on feedback, improving response quality over time.
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+- **Retrieval-Augmented Generation:**  
+  Automatically performs internet searches for queries requiring up-to-date information, and augments the conversation with relevant external data.
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+- **Advanced Math Parsing:**  
+  Utilizes Sympy to safely evaluate and respond to simple math queries without relying on insecure methods.
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+- **Copilot-Inspired UI:**  
+  A sleek, dark-themed interface featuring:
+  - A sidebar to view and switch between previous chats.
+  - A centered, compact message bar with send-on-Enter functionality.
+  - A dynamic send button that changes appearance on hover.
+
+## Technical Details
+
+- **Backend:**  
+  - **Framework:** Python, Flask, Flask-CORS  
+  - **AI & NLP:** Hugging Face Transformers, Torch  
+  - **Math Evaluation:** Sympy  
+  - **Database:** SQLite (for persistent conversation storage)
+
+- **Frontend:**  
+  - **Languages:** HTML, CSS, JavaScript  
+  - **Design:** Modern, Copilot-inspired dark theme with responsive layout and interactive controls
+
+- **Deployment:**  
+  Designed for local development with easy migration to cloud platforms like Heroku or AWS.
+
+## How It Works
+
+1. **User Interaction:**  
+   Users interact with the chatbot through a web-based interface. They can type messages into a centered input bar and press Enter or click the dynamic send button.
+
+2. **Context Management:**  
+   Each conversation is stored persistently in SQLite, allowing the chatbot to reference historical messages and maintain a natural multi-turn dialogue.
+
+3. **Dynamic Response Generation:**  
+   - For typical queries, the chatbot uses a text-generation pipeline based on DialoGPT to generate intelligent, context-aware responses.  
+   - If a query requires factual updates or searches (e.g., starting with "search:"), the system retrieves external data via a search API, augments the prompt, and generates a more informed response.
+
+4. **Continuous Improvement:**  
+   Leveraging reinforcement learning from human feedback (RLHF), the chatbot is fine-tuned over time. This ensures it learns from past interactions and continuously improves its performance and alignment with user expectations.
+
+## Challenges & Solutions
+
+- **Performance:**  
+  Transformer models are resource-intensive. Optimizations like caching pipelines, GPU utilization, and asynchronous processing help mitigate latency.
+
+- **Context Length:**  
+  Multi-turn conversations can quickly exceed the model’s context window. Using persistent session storage and retrieval-augmented generation allows the system to incorporate long-term context without overwhelming the model.
+
+- **Data Freshness:**  
+  Integrating an external search ensures that responses remain relevant and up-to-date, particularly for queries that require current information.
+
+---
+
+**Explore the Code:** [GitHub Repository Link](https://github.com/salhhtp/intelligent_chatbot)  
