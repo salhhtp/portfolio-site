@@ -163,6 +163,9 @@ sections:
       - type: Label
         label: Node.js
       - type: Label
+        label: Flask
+        url: ''
+      - type: Label
         label: Next.js
       - type: Label
         label: Prompt Engineering
@@ -198,9 +201,6 @@ sections:
         url: ''
       - type: Label
         label: Bitbucket
-        url: ''
-      - type: Label
-        label: Flask
         url: ''
   - type: DividerSection
     styles:
