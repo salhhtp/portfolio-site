@@ -13,7 +13,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   url: /images/Ekran Resmi 2025-03-11 19.04.55.png
-  altText: Project thumbnail image
+  altText: Investment Portfolio Manager
   caption: ''
   elementId: ''
 media:
