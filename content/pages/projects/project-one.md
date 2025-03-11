@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Investment Portfolio Manager
 date: '2025-03-11'
-client: Awesome client
+client: ''
 description: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
