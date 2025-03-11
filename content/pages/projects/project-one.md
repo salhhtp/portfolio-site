@@ -20,7 +20,7 @@ media:
   type: ImageBlock
   url: /images/Ekran Resmi 2025-03-11 19.05.10.png
   altText: Project image
-  caption: Caption of the image
+  caption: ''
   elementId: ''
 addTitleSuffix: true
 colors: colors-a
