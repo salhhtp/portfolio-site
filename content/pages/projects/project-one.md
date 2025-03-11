@@ -3,7 +3,13 @@ type: ProjectLayout
 title: Investment Portfolio Manager
 date: '2025-03-11'
 client: ''
-description: ''
+description: >-
+  A fully functional, production-ready mobile application that provides
+  personalized investment portfolio recommendations based on real-time financial
+  data, user-defined parameters, and advanced optimization techniques. This app
+  includes secure user authentication, real-time data fetching, portfolio
+  history tracking, and projected profit calculations—all built using the latest
+  React Native and Expo technologies.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
