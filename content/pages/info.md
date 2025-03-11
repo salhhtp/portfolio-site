@@ -260,6 +260,23 @@ sections:
       - type: FeaturedItem
         subtitle: ''
         text: >+
+          **February 2024-May 2024**
+
+
+          *   Data Analyst Associate Certificate from DataCamp - Earned the
+          certificate after displaying advanced skills at data analysis at an
+          associate level.
+
+
+          **February 2024**
+
+
+          *   Fundamentals of Process Design & Facilitation Professional
+          Certificate at Hyper Island Stockholm AB - Successfully completed a
+          three days on-site course for learning the fundamentals of process
+          designing and facilitation at a professional state.
+
+
           **August 2023-March 2025**
 
 
@@ -267,6 +284,23 @@ sections:
           projects that combine design thinking, business strategy, and advanced
           analytics that incorporates artificial intelligence.
 
+
+          **October 2022-March 2023**
+
+
+          *   Full Stack Developer Professional Certificate Program at IBM -
+          I've completed 10 courses
+              on various Application Development and Cloud technologies and is
+              now equipped with the skills and know how to undertake challenges of
+              Developing Cloud Native Applications. Also got
+              hands-on working knowledge with HTML, CSS, JavaScript, GitHub,
+              Node.js, React, Cloud Native practices, DevOps, CI/CD, Containers,
+              Docker, Kubernetes, OpenShift, Python programming, Databases, SQL,
+              NoSQL, Django ORM, Bootstrap, Application Security, Microservices,
+              Serverless computing, and more. Also have deployed
+              several applications on cloud, completed a capstone project, and
+              delivered a Software as a Service (SaaS) solution using Cloud Native
+              methodologies.
 
           **August 2019-June 2022**
 
