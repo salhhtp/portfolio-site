@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Youtube Shorts Scraper
+title: Top Youtube Shorts Scraper
 date: '2025-03-12'
 client: Awesome client
 description: >-
