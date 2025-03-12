@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: 'CommerceFlow: A Microservices-Based E-Commerce Platform'
 date: '2025-03-12'
-client: Awesome client
+client: ''
 description: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
