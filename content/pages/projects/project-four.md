@@ -11,7 +11,7 @@ description: >-
   your website.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/Ekran Resmi 2025-03-12 15.10.50.png
   altText: Project thumbnail image
   caption: ''
   elementId: ''
