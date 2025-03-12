@@ -4,8 +4,11 @@ title: Top Youtube Shorts Scraper
 date: '2025-03-12'
 client: Awesome client
 description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  OverviewTop YouTube Shorts Scraper is a Python project that retrieves the top
+  10 most viewed YouTube Shorts for a given day using the YouTube Data API. This
+  project demonstrates how to work with external APIs, perform data filtering,
+  and sort results—all in a concise, real-world application that you can
+  integrate into your website.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
