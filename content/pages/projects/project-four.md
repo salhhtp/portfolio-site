@@ -28,28 +28,26 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 100
 ---
-# Top YouTube Shorts Scraper
-
-## Overview
-**Top YouTube Shorts Scraper** is a Python project that retrieves the top 10 most viewed YouTube Shorts for a given day using the YouTube Data API. This project demonstrates how to work with external APIs, perform data filtering, and sort results—all in a concise, real-world application that you can integrate into your website.
-
 ## Features
-- **Daily Retrieval:** Fetches Shorts published within a specified day (default is today).
-- **Shorts Filtering:** Selects only videos that are 60 seconds or less.
-- **View Count Sorting:** Ranks videos by view count in descending order.
-- **Easy Integration:** Designed to be embedded in your portfolio or web application.
+
+*   **Daily Retrieval:** Fetches Shorts published within a specified day (default is today).
+*   **Shorts Filtering:** Selects only videos that are 60 seconds or less.
+*   **View Count Sorting:** Ranks videos by view count in descending order.
+*   **Easy Integration:** Designed to be embedded in your portfolio or web application.
 
 ## Tech Stack
-- **Python 3** – The core programming language.
-- **Google API Client for Python** – To interact with the YouTube Data API.
-- **isodate** – For parsing ISO 8601 duration strings.
-- **YouTube Data API v3** – For retrieving video metadata and statistics.
+
+*   **Python 3** – The core programming language.
+*   **Google API Client for Python** – To interact with the YouTube Data API.
+*   **isodate** – For parsing ISO 8601 duration strings.
+*   **YouTube Data API v3** – For retrieving video metadata and statistics.
 
 ## How It Works
-1. **API Query:** The script queries the YouTube Data API for videos published on the target day.
-2. **Filtering:** It filters the videos to include only those that are 60 seconds or less.
-3. **Sorting:** The filtered list is then sorted by view count, from highest to lowest.
-4. **Output:** The script prints the URLs of the top 10 YouTube Shorts along with their view counts.
+
+1.  **API Query:** The script queries the YouTube Data API for videos published on the target day.
+2.  **Filtering:** It filters the videos to include only those that are 60 seconds or less.
+3.  **Sorting:** The filtered list is then sorted by view count, from highest to lowest.
+4.  **Output:** The script prints the URLs of the top 10 YouTube Shorts along with their view counts.
 
 ## Code Snippet
 
@@ -104,3 +102,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+```
+
