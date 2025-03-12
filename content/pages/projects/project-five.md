@@ -4,8 +4,12 @@ title: 'CommerceFlow: A Microservices-Based E-Commerce Platform'
 date: '2025-03-12'
 client: ''
 description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  CommerceFlow is a production-grade portfolio project built with TypeScript,
+  NestJS, and Docker. It showcases my expertise in backend development and
+  system architecture by leveraging a microservices-based design. This project
+  demonstrates my ability to design scalable systems, implement robust testing
+  strategies, and integrate CI/CD pipelines—all while writing clean,
+  maintainable code.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
