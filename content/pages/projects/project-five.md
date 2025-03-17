@@ -80,14 +80,6 @@ CommerceFlow is designed using a microservices architecture that includes the fo
 
 The architecture promotes scalability, separation of concerns, and ease of maintenance.
 
-### Architecture Diagram
-
-> **Suggestion:** Create and include a clean diagram using Lucidchart, Draw\.io, or a similar tool that visualizes:
->
-> *   The API Gateway at the center.
-> *   The Catalog Service and Order Service as separate nodes.
-> *   Arrows showing request routing from clients to the gateway and from the gateway to each service.
-
 ***
 
 ## Technical Stack
@@ -183,4 +175,5 @@ export class GatewayController {
   }
 }
 ```
+
 **Explore the Code:** [GitHub Repository Link](https://github.com/salhhtp/commerceflow)
