@@ -65,8 +65,8 @@ sections:
     projects:
       - content/pages/projects/project-five.md
       - content/pages/projects/project-one.md
-      - content/pages/projects/project-six.md
       - content/pages/projects/project-ten.md
+      - content/pages/projects/project-six.md
     styles:
       self:
         height: auto
