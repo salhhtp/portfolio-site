@@ -5,7 +5,8 @@ date: '2025-03-19'
 client: ''
 description: >-
   A project where I aimed to closely emulate "Renaissance Technologies'" trading
-  strategies under a machine learning model with using Alpaca API.
+  strategies under a machine learning model with using Alpaca API for chart data
+  and brokerage.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
