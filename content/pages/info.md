@@ -220,16 +220,15 @@ sections:
       - type: FeaturedItem
         subtitle: ''
         text: >+
-          **May 2025-Ongoing**
+          **May 2025-Current**
 
 
-          *   Head of Technology and System Admin at Maigon AB - Focusing on
+          Head of Technology and System Admin at Maigon AB - Focusing on
           maintaining the Maigon platform and developing its new version with
-          modern stack.**
+          modern stack.\*\*
 
-              October 2024-March 2025**
 
-          <!---->
+          **October 2024-March 2025**
 
 
           *   Junior AI Developer and Internship at Carbon Centrum AS - Focus on
