@@ -4,9 +4,8 @@ title: V2 Development for a Production Legal-Tech Platform
 date: '2025-10-28'
 client: Swedish Legal Company
 description: >-
-  A project where I aimed to closely emulate "Renaissance Technologies'" trading
-  strategies under a machine learning model with using Alpaca API for chart data
-  and brokerage account.
+  A client project where I had updated their AI contract review and compliance
+  report generation platform with modern stack and design.
 featuredImage:
   type: ImageBlock
   url: /images/Ekran Resmi 2025-10-27 23.29.36.png
