@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: 'Platform Update '
+title: Version Development for a Production Legal-Tech Platform
 date: '2025-10-27'
 client: M**G*N AB
 description: >-
