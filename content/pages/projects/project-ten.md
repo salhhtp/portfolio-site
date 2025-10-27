@@ -9,7 +9,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   url: /images/Ekran Resmi 2025-10-28 00.22.38.png
-  altText: Project Six Image
+  altText: Project Ten Image
   caption: ''
   elementId: ''
 media:
