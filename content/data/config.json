@@ -96,7 +96,7 @@
             "address": "Södergatan 47B, Märsta, Stockholm, 195 47",
             "addressAltText": "My address"
         },
-        "copyrightText": "Powered by [Netlify](https://www.netlify.com/)",
+        "copyrightText": "",
         "styles": {
             "self": {
                 "width": "narrow",
