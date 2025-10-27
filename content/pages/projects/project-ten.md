@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: V2 Development for a Production Legal-Tech Platform
-date: '2025-03-19'
+date: '2025-04-19'
 client: ''
 description: >-
   A project where I aimed to closely emulate "Renaissance Technologies'" trading
