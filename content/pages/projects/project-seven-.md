@@ -3,7 +3,9 @@ type: ProjectLayout
 title: 'Platform Update '
 date: '2025-10-27'
 client: M**G*N AB
-description: A plat
+description: >-
+  A platform update and new stack development for a law firm's AI contract
+  analysis and compliance report generation platform.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
