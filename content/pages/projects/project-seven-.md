@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: 'Platform Update '
 date: '2025-10-27'
-client: Awesome client
+client: M**G*N AB
 description: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
