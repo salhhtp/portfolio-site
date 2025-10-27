@@ -223,7 +223,7 @@ sections:
           **May 2025-Current**
 
 
-          Head of Technology and System Admin at Maigon AB - Focusing on
+          *   Head of Technology and System Admin at Maigon AB - Focusing on
           maintaining the Maigon platform and developing its new version with
           modern stack.\*\*
 
