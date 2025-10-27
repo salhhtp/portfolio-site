@@ -31,8 +31,6 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 100
 ---
-# V2 Development for a Production Legal-Tech Platform
-
 *A modern React/TypeScript rebuild that upgrades the UX, performance, and reliability of an already-live AI-assisted contract review product.*
 
 > **TL;DR**\
@@ -97,8 +95,6 @@ src/
   tests/               # unit + e2e helpers
 ```
 
-
-
 **Key traits**
 
 *   **Routing**: authenticated layouts, protected sub-routes, 404/500 fallbacks.
@@ -108,8 +104,6 @@ src/
 *   **Feature flags**: gradual rollouts and A/B scaffolding.
 
 *   **Skeletons & placeholders** to keep app responsive during async work.
-
-
 
 ## Tech Stack
 
@@ -133,8 +127,6 @@ src/
 
 > The codebase is framework-friendly: deployable as a SPA or under SSR frameworks if needed.
 
-
-
 ## Feature Highlights
 
 *   **Document intake**: drag-and-drop upload, type detection, progress, failure recovery.
@@ -151,8 +143,6 @@ src/
 
 *   **Exports**: configurable templates with sensible defaults.
 
-
-
 ## State, Data & Reliability
 
 *   **Typed API client** with interceptors (auth refresh, 429 backoff, error mapping).
@@ -165,8 +155,6 @@ src/
 
 *   **Uniform empty/loading/error** components so users always know what’s happening.
 
-
-
 ## Performance
 
 *   Route-level **code splitting** and **on-demand** component loading.
@@ -176,8 +164,6 @@ src/
 *   **Concurrent-safe** UI patterns (suspenseful skeletons, minimal layout shift).
 
 *   **Asset discipline**: compress, prefetch critical paths, only ship what’s used.
-
-
 
 ## Accessibility
 
@@ -189,8 +175,6 @@ src/
 
 *   Reduced-motion variants for motion-sensitive users.
 
-
-
 ## Developer Experience
 
 *   **Strict TypeScript** + ESLint + Prettier.
@@ -201,8 +185,6 @@ src/
 
 *   **Story-like sandboxes** (if enabled) for rapid UI iteration.
 
-
-
 ## Deployment & Environments
 
 *   **Environment variables** for endpoints/keys (never committed).
@@ -210,8 +192,6 @@ src/
 *   **Staging previews** from PRs for product/design review.
 
 *   **Error tracking** & basic telemetry hooks (redacted; configurable per env).
-
-
 
 ## Security & Privacy
 
@@ -221,21 +201,17 @@ src/
 
 *   Hardened file-upload flows with explicit size/type checks and server-validated links.
 
-
-
 ## Roadmap
 
-*    Inline diff viewer for clause-by-clause comparisons
+*   Inline diff viewer for clause-by-clause comparisons
 
-*    Saved views & sharable filters
+*   Saved views & sharable filters
 
-*    Session restore for long reviews
+*   Session restore for long reviews
 
-*    Full dark mode with token parity
+*   Full dark mode with token parity
 
-*    Improved bulk actions (smart selection, background jobs UX)
-
-
+*   Improved bulk actions (smart selection, background jobs UX)
 
 ## What I Learned
 
@@ -247,8 +223,6 @@ src/
 
 *   Keeping the **Figma source canonical** (and out of the repo) avoids asset drift.
 
-
-
 ## Links
 
 *   **Code**: Front-end repository (with sensitive assets redacted).
@@ -256,8 +230,6 @@ src/
 *   **Design**: Figma design system & prototypes are available on request.
 
 *   **Contact**: Happy to demo the workflow (upload → process → review → export) in a staging environment.
-
-
 
 ### Notes on Anonymity
 
