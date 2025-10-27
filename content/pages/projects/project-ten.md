@@ -8,7 +8,7 @@ description: >-
   report generation platform with modern stack and design.
 featuredImage:
   type: ImageBlock
-  url: /images/Ekran Resmi 2025-10-27 23.29.36.png
+  url: /images/Ekran Resmi 2025-10-28 00.22.38.png
   altText: Project Six Image
   caption: ''
   elementId: ''
