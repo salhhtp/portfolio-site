@@ -14,7 +14,7 @@ featuredImage:
   elementId: ''
 media:
   type: ImageBlock
-  url: /images/Ekran Resmi 2025-10-27 23.29.36.png
+  url: /images/Ekran Resmi 2025-10-28 00.22.38.png
   altText: Project Ten image
   caption: Legal Tech Platform
   elementId: ''
