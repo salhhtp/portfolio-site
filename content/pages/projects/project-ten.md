@@ -31,7 +31,7 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 100
 ---
-*A modern React/TypeScript rebuild that upgrades the UX, performance, and reliability of an already-live AI-assisted contract review product.*
+#### *A modern React/TypeScript rebuild that upgrades the UX, performance, and reliability of an already-live AI-assisted contract review product.*
 
 > **TL;DR**\
 > I led a front-end refactor to a production legal-tech platform used for automated contract review (NDAs, consultancy agreements, DPAs, etc.).\
