@@ -16,7 +16,7 @@ media:
   type: ImageBlock
   url: /images/Ekran Resmi 2025-10-27 23.29.36.png
   altText: Project Ten image
-  caption: Renaissance Trading Engine
+  caption: Legal Tech Platform
   elementId: ''
 bottomSections: []
 addTitleSuffix: true
