@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Version Development for a Production Legal-Tech Platform
 date: '2025-10-27'
-client: M**G*N AB
+client: Swedish Legal Company
 description: >-
   A platform update and new stack development for a law firm's AI contract
   analysis and compliance report generation platform.
