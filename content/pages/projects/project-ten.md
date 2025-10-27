@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: V2 Development for a Production Legal-Tech Platform
 date: '2025-10-28'
-client: ''
+client: Swedish Legal Company
 description: >-
   A project where I aimed to closely emulate "Renaissance Technologies'" trading
   strategies under a machine learning model with using Alpaca API for chart data
