@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: V2 Development for
+title: V2 Development for a Production Legal-Tech Platform
 date: '2025-03-19'
 client: ''
 description: >-
