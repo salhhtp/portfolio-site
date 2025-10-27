@@ -32,16 +32,13 @@ backgroundImage:
 ---
 #### *A modern React/TypeScript rebuild that upgrades the UX, performance, and reliability of an already-live AI-assisted contract review product.*
 
-> **TL;DR**\
-> I led a front-end refactor to a production legal-tech platform used for automated contract review (NDAs, consultancy agreements, DPAs, etc.).\
-> The new V2 front-end delivers faster loads, cleaner navigation, stronger states & error handling, and a cohesive design system.\
-> All client/company identifiers are intentionally omitted. Figma design work (tokens, components, flows) exists but is **not** committed to the repo.
+> **TL;DR**I led a front-end refactor to a production legal-tech platform used for automated contract review (NDAs, consultancy agreements, DPAs, etc.).The new V2 delivers faster loads, cleaner navigation, stronger states & error handling, and a cohesive design system.All client/company identifiers are intentionally omitted. Figma design work (tokens, components, flows) exists but is **not** committed to the repo.
 
 ***
 
 ## Background & Goals
 
-The product was already on the market with paying users. The mandate for the V2 front-end was to:
+The product was already on the market with paying users. The mandate for the V2 was to:
 
 *   **Modernize the UX** without disrupting current users’ workflows.
 *   **Improve performance & reliability** in complex, long-running review sessions.
