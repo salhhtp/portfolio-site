@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Renaissance Trading Engine
+title: V2 Development for
 date: '2025-03-19'
 client: ''
 description: >-
