@@ -3,9 +3,7 @@ type: ProjectLayout
 title: 'Platform Update '
 date: '2025-10-27'
 client: M**G*N AB
-description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+description: A plat
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
