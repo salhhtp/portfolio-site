@@ -220,7 +220,16 @@ sections:
       - type: FeaturedItem
         subtitle: ''
         text: >+
-          **October 2024-March 2025**
+          **May 2025-Ongoing**
+
+
+          *   Head of Technology and System Admin at Maigon AB - Focusing on
+          maintaining the Maigon platform and developing its new version with
+          modern stack.**
+
+              October 2024-March 2025**
+
+          <!---->
 
 
           *   Junior AI Developer and Internship at Carbon Centrum AS - Focus on
